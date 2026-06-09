@@ -10,7 +10,7 @@
 
 AI/ML developer from Mumbai. Interned at Alesa AI (UK, remote) — building AI Applications and microservices. Also doing my MCA on the side.
 
-I work mostly with LLMs, agentic systems, and full-stack AI apps. Some things I've shipped: a developer analytics platform with a fine-tuned CodeLlama model, an automated exam paper generator using LangGraph, and a few merged PRs into [Mesa-LLM](https://github.com/projectmesa/mesa-llm).
+I work mostly with LLMs, agentic systems, and full-stack AI apps. Some things I've shipped: a developer analytics platform with a fine-tuned CodeLlama model, an automated exam paper generator using LangGraph
 
 Open to collaborating on anything interesting. sujalgawas18@gmail.com.
 
